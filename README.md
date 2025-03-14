@@ -1,48 +1,14 @@
-# Fast Pipeline (Actions)
+# Fast Pipeline Actions
 CI/CD with GitHub Actions and AWS EC2+Nginx.
 
 ## Daily Updates
 ### Day 1: March 12, 2025
 - GitHub Actions workflow (`fast-pipeline.yml`) echoes "Started!".
 - EC2 t2.micro with Nginx "Welcome" page.
-
-
-# Fast Pipeline 🖥️  
-Laynie Tierney’s CI/CD starship—5mo DevSecOps + 3yr full-stack at warp!  
-
-## Mission  
-Engage Jenkins—streamline workflows, Day 1 and beyond.  
-
-## Systems  
-- ⚡ Jenkins core—hello world online.  
-- ☁️ EC2 warp—app deployed.  
-
-## Launch Sequence  
-1. `git clone https://github.com/lvtierne/fast-pipeline`  
-2. Beam up `Jenkinsfile`—run locally or on EC2.  
-
-## Stardate Log  
-- Day 1 (Mar 12, 2025): Jenkins & EC2 engaged—Phase 1 warps off!  
-- Next: Multi-stage + photon deploy.  
-
-## Vibe  
-*“Warp speed to Mars—DOGE thrusters on!”*  
-
-## Comm Links  
-- X: [@LaynieTierney](https://x.com/LaynieTierney)  
-- Starbase: [lvtierne.netlify.app](https://lvtierne-portfolio-website.netlify.app)  
-
-------------------------------------------------
-
-<br>
-<br>
 <br>
 
 ------------------------------------------------
-
-
-
-# Fast Pipeline - Daily Updates
+# Fast Pipeline Actions - Daily Updates
 Quick CI/CD setup with GitHub Actions and AWS EC2 hosting Nginx.
 
 ## Overview
