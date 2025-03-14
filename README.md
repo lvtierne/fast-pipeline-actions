@@ -1,34 +1,40 @@
-# Fast Pipeline Actions
-CI/CD with GitHub Actions and AWS EC2+Nginx.
+# Fast Pipeline Actions 🚀  
+Laynie Tierney’s CI/CD scout ship—GitHub Actions warping at light speed!  
 
-## Daily Updates
-### Day 1: March 12, 2025
-- GitHub Actions workflow (`fast-pipeline.yml`) echoes "Started!".
-- EC2 t2.micro with Nginx "Welcome" page.
-<br>
+## Mission  
+Quickly deploy a lightweight pipeline with GitHub Actions and AWS EC2+Nginx. Retired Day 1—see [fast-pipeline](https://github.com/lvtierne/fast-pipeline) for Jenkins orbit.  
 
-------------------------------------------------
-# Fast Pipeline Actions - Daily Updates
-Quick CI/CD setup with GitHub Actions and AWS EC2 hosting Nginx.
+## Systems  
+- ⚡ **Actions Core**: Workflow online—`fast-pipeline.yml` echoes "Started!".  
+- ☁️ **EC2 Warp**: `fast-ec2` (t2.micro) with Nginx "Welcome" page.  
 
-## Overview
-Building a fast, lightweight pipeline to automate tasks and deploy a web server. Started with GitHub Actions (switched from Jenkins for speed) and launched an EC2 instance with Nginx.
+## Launch Sequence  
+1. `git clone https://github.com/lvtierne/fast-pipeline-actions`  
+2. Beam up `.github/workflows/fast-pipeline.yml`—trigger on push.  
+3. Warp to `http://<public-ip>`—Nginx live on Day 1.  
 
-## Daily Updates
-### Day 1: March 12, 2025
-- **What I Did:**
-  - Set up GitHub Actions with a "hello world" job.
-  - Launched an AWS EC2 t2.micro instance, installed Nginx, and served a "Welcome" page.
-  - Made 2 commits: Actions workflow and EC2 notes.
-- **How I Did It:**
-  - Actions: Created `.github/workflows/fast-pipeline.yml` to echo "Started!" on push.
-  - EC2: Used AWS Free Tier, SSH’d in with PuTTY (Windows 11), ran `sudo amazon-linux-extras install nginx1 -y`, added `index.html` to fix 404.
-  - Git: Committed locally (`git add/commit/push`) from Windows 11.
-- **Why I Did It:**
-  - Actions over Jenkins: Faster setup, no local Java hassle on Windows 11 Home.
-  - EC2 with Nginx: Quick proof-of-concept for hosting, learning AWS basics.
-  - Goal: Test a minimal CI/CD-to-cloud workflow in 5 hours.
+## Stardate Log  
+### Day 1: March 12, 2025  
+- **What I Did:**  
+  - Set up GitHub Actions with a "hello world" job.  
+  - Launched `fast-ec2`, installed Nginx, served "Welcome" page.  
+  - Logged 2 commits: Actions workflow + EC2 notes.  
+- **How I Did It:**  
+  - Actions: Crafted `.github/workflows/fast-pipeline.yml`—`echo "Started!"` on push.  
+  - EC2: AWS Free Tier, PuTTY SSH (Windows 11), `sudo amazon-linux-extras install nginx1 -y`, added `index.html` to fix 404.  
+  - Git: `git add/commit/push` from Windows 11.  
+- **Why I Did It:**  
+  - Actions: Faster than Jenkins—no Java setup on Windows 11 Home.  
+  - EC2+Nginx: Quick hosting proof, AWS basics in 5 hours.  
+  - Goal: Test CI/CD-to-cloud warp speed!  
 
-## Files
-- `.github/workflows/fast-pipeline.yml`: Actions config.
-- `ec2-notes.txt`: EC2 setup details.
+## Systems Check  
+- `.github/workflows/fast-pipeline.yml`: Actions config.  
+- `ec2-notes.txt`: EC2 launch details.  
+
+## Vibe  
+*"Scouting the galaxy—one fast pipeline at a time!"*  
+
+## Comm Links  
+- X: [@LaynieTierney](https://x.com/LaynieTierney)  
+- Starbase: [lvtierne.netlify.app](https://lvtierne-portfolio-website.netlify.app)  
