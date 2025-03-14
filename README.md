@@ -1,3 +1,12 @@
+# Fast Pipeline (Actions)
+CI/CD with GitHub Actions and AWS EC2+Nginx.
+
+## Daily Updates
+### Day 1: March 12, 2025
+- GitHub Actions workflow (`fast-pipeline.yml`) echoes "Started!".
+- EC2 t2.micro with Nginx "Welcome" page.
+
+
 # Fast Pipeline 🖥️  
 Laynie Tierney’s CI/CD starship—5mo DevSecOps + 3yr full-stack at warp!  
 
